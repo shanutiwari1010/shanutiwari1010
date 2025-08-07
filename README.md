@@ -1,38 +1,64 @@
-<h1 align="center">Hi 👋, I'm Shanu Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hey, I'm Shanu Tiwari
 
-- 🔭 I’m currently working on [portfolio](https://github.com/shanutiwari1010/portfolio)
+Hey there! I'm [Your Name], a frontend engineer who lives for pixel-perfect interfaces, seamless user experiences, and web apps that are fast, accessible, and a joy to use.
 
-- 🌱 I’m currently learning **Reactjs,Nextjs**
+I believe the little details aren’t just details — they’re what make a product feel intentional, inclusive, and alive. Whether I'm refining a micro-interaction or optimizing performance, I pour that same care into every line of code I write. .
 
-- 👯 I’m looking to collaborate on **open source projects**
+[🌐 Portfolio](https://shanutiwari1010.me) • [📄 Resume](https://shanutiwari1010.me/resume) • [🐦 Twitter](https://twitter.com/shanutiwari1010) • [💼 LinkedIn](https://linkedin.com/in/shanutiwari1010)
 
-- 👨‍💻 All of my projects are available at [https://shanutiwari.vercel.app](https://shanutiwari.vercel.app)
+---
 
-- 💬 Ask me about **JavaScript, CSS, React**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **shanutiwari.work@gmail.com**
+- 🎯 Frontend-focused developer with 2+ years of experience delivering intuitive UIs and impactful features across real-world products.
+- 🧠 Strong believer in clean code, performance-first UX, and developer experience.
+- 🚀 Currently exploring **AI for developers**, LLMs, and DevRel — while staying sharp with modern frontend tools and design systems.
+- 🌱 Always learning, building, and pushing boundaries with frontend architecture and performance.
+- 🧑‍🏫 Passionate about mentoring, simplifying frontend concepts, and creating dev content to help others grow.
 
-- 📄 Know about my experiences [https//shanutiwari.vercel.app/resume](https//shanutiwari.vercel.app/resume)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shanutiwari1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanutiwari1010" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shanutiwari1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanutiwari1010" height="30" width="40" /></a>
-</p>
+## 🛠 Tech I Work With
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**Languages:**  
+JavaScript, TypeScript, HTML, CSS, Java, Python
 
-<!-- GitHub Stats -->
-<div>
-  <h2>Stats📈</h2>
+**Frameworks & Libraries:**  
+React.js, Next.js, Redux Toolkit, Zustand, TailwindCSS, Shadcn/UI, Zod, TanStack Table, React Hook Form
 
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shanutiwari1010&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanutiwari1010&theme=tokyonight" alt="GitHub Streak" />
-  </p>
-</div>
+**Tools & Platforms:**  
+Git, GitHub, Figma, Vercel, Chrome DevTools, Postman, Storybook
 
-<!-- END -->
+**Testing & DevTools:**  
+Jest, React Testing Library, Google Analytics 4, GTM, Lighthouse
 
+---
+
+## 🧠 What I Love
+
+- 💻 Building highly interactive UIs with component libraries & design systems  
+- 🧩 Architecting scalable and maintainable frontends with clean structure  
+- 🎥 Documenting, creating dev content, and simplifying technical workflows  
+- 🧠 Brainstorming ideas at the intersection of design, logic, and performance  
+- 💬 Creating value through open communication and collaboration  
+
+---
+
+## 🌈 What Keeps Me Inspired
+
+- ✈️ Traveling helps me recharge and find fresh inspiration  
+- 🎶 Music keeps me grounded and inspired  
+- 🧘 I believe calm minds build better software  
+- 💬 Always down for a tech chat, collaboration, or a quick debug session!
+
+---
+
+## 📬 Let’s Connect
+
+📧 Email: [shanutiwari1010@gmail.com](mailto:shanutiwari1010@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/shanutiwari1010](https://linkedin.com/in/shanutiwari1010)  
+🐦 Twitter: [@shanutiwari1010](https://twitter.com/shanutiwari1010)  
+🌐 Portfolio: [shanutiwari1010.me](https://shanutiwari1010.me)
+
+---
+
+> “Great frontend isn't just code — it's empathy, creativity, and a constant desire to improve.”
