@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shanu Tiwari
 
-Hey there! I'm [Your Name], a frontend engineer who lives for pixel-perfect interfaces, seamless user experiences, and web apps that are fast, accessible, and a joy to use.
+Hey there! I'm a frontend engineer who lives for pixel-perfect interfaces, seamless user experiences, and web apps that are fast, accessible, and a joy to use.
 
 I believe the little details aren’t just details — they’re what make a product feel intentional, inclusive, and alive. Whether I'm refining a micro-interaction or optimizing performance, I pour that same care into every line of code I write. .
 
