@@ -4,7 +4,7 @@ Hey there! I'm a frontend engineer who lives for pixel-perfect interfaces, seaml
 
 I believe the little details aren’t just details — they’re what make a product feel intentional, inclusive, and alive. Whether I'm refining a micro-interaction or optimizing performance, I pour that same care into every line of code I write. .
 
-[🌐 Portfolio]([https://www.shanutiwari.in)](https://www.shanutiwari.in/) • [📄 Resume]([https://www.shanutiwari.in](https://www.shanutiwari.in/resume) • [🐦 Twitter](https://twitter.com/shanutiwari1010) • [💼 LinkedIn](https://linkedin.com/in/shanutiwari1010)
+[🌐 Portfolio]([https://www.shanutiwari.in) • [📄 Resume](https://www.shanutiwari.in/resume) • [🐦 Twitter](https://twitter.com/shanutiwari1010) • [💼 LinkedIn](https://linkedin.com/in/shanutiwari1010)
 
 ---
 
