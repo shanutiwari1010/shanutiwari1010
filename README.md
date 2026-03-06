@@ -57,7 +57,7 @@ Jest, React Testing Library, Google Analytics 4, GTM, Lighthouse
 📧 Email: [shanutiwari1010@gmail.com](mailto:shanutiwari1010@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/shanutiwari1010](https://linkedin.com/in/shanutiwari1010)  
 🐦 Twitter: [@shanutiwari1010](https://twitter.com/shanutiwari1010)  
-🌐 Portfolio: [shanutiwari1010.in](https://www.shanutiwari.in)
+🌐 Portfolio: [shanutiwari.in](https://www.shanutiwari.in)
 
 ---
 
